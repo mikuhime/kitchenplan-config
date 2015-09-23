@@ -1,0 +1,5 @@
+recipes:
+  global:
+    - applications::create_var_chef_cache
+  mac_os_x:
+    - homebrewalt::default

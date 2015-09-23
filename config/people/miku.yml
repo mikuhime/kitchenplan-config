@@ -1,0 +1,71 @@
+recipes:
+    mac_os_x:
+        - osxdefaults::add_note_to_loginscreen
+        - osxdefaults::automatically_illuminate_built-in_macbook_keyboard_in_low_light
+        - osxdefaults::automatically_quit_printer_app_once_the_print_jobs_complete
+        - osxdefaults::avoid_creating_ds_store_files_on_network_volumes
+        - osxdefaults::disable_auto-correct
+        - osxdefaults::disable_disk_image_verification
+        - osxdefaults::disable_front_row
+        - osxdefaults::disable_gatekeeper
+        - osxdefaults::disable_resume_system-wide
+        - osxdefaults::do_not_group_windows_by_application_in_mission_control
+        - osxdefaults::do_not_show_dashboard_as_a_space
+        - osxdefaults::dock_automatically_hide_and_show_the_dock
+        - osxdefaults::dock_change_autohide_speed
+        - osxdefaults::dock_do_not_animate_opening_applications_from_the_dock
+        - osxdefaults::dock_enable_highlight_hover_effect_for_the_grid_view_of_a_stack
+        - osxdefaults::dock_enable_spring_loading_for_all_dock_items
+        - osxdefaults::dock_make_dock_icons_of_hidden_applications_translucent
+        - osxdefaults::dock_minimize_to_application
+        - osxdefaults::dock_wipe_all_default_app_icons_from_dock
+        - osxdefaults::finder_automatically_open_a_new_finder_window_when_a_volume_is_mounted
+        - osxdefaults::finder_disable_the_warning_before_emptying_the_trash
+        - osxdefaults::finder_disable_the_warning_when_changing_a_file_extension
+        - osxdefaults::finder_display_full_path
+        - osxdefaults::finder_new_finder_windows_shows_homefolder
+        - osxdefaults::finder_search_the_current_folder_by_default
+        - osxdefaults::finder_set_preferred_view_style
+        - osxdefaults::finder_show_all_files
+        - osxdefaults::finder_show_file_extensions
+        - osxdefaults::finder_show_status_bar
+        - osxdefaults::finder_unhide_home
+        - osxdefaults::menu_add_battery_percentage
+        - osxdefaults::save_screenshots_in_png_format
+        - osxdefaults::save_screenshots_to_the_desktop
+        - osxdefaults::save_to_disk_not_to_iCloud_by_default
+        - osxdefaults::set_a_blazingly_fast_keyboard_repeat_rate
+        - osxdefaults::set_computer_name
+        - osxdefaults::speed_up_mission_control_animations
+        - osxdefaults::use_dark_menu_bar_and_dock
+        - osxdefaults::use_name_and_password_on_loginscreen
+attributes:
+  osxdefaults:
+    add_note_to_loginscreen: pls no bully
+    computername: hachune
+    finder_set_preferred_view_style: Nlsv
+  homebrewalt:
+    apps:
+      - git
+      - git-extras
+      - htop-osx
+      - httpie
+      - nmap
+      - pstree
+      - tmux
+    cask_apps:
+      - android-file-transfer
+      - atom
+      - chefdk
+      - chromium
+      - firefox
+      - google-chrome
+      - hexchat
+      - iterm2
+      - karabiner
+      - macpass
+      - mpv
+      - owncloud
+      - transmission
+    cask_fonts:
+      - terminus

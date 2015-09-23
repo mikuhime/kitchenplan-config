@@ -1,0 +1,6 @@
+site "http://community.opscode.com/api/v1"
+
+cookbook "applications",          :github => "kitchenplan/chef-applications"
+cookbook "dotfiles",              :github => "kitchenplan/chef-dotfiles"
+cookbook "homebrewalt",           :github => "kitchenplan/chef-homebrewalt"
+cookbook "osxdefaults",           :github => "kitchenplan/chef-osxdefaults"
