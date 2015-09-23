@@ -67,5 +67,6 @@ attributes:
       - mpv
       - owncloud
       - transmission
+      - vagrant
     cask_fonts:
       - terminus
