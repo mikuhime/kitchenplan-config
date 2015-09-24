@@ -26,7 +26,6 @@ recipes:
         - osxdefaults::finder_new_finder_windows_shows_homefolder
         - osxdefaults::finder_search_the_current_folder_by_default
         - osxdefaults::finder_set_preferred_view_style
-        - osxdefaults::finder_show_all_files
         - osxdefaults::finder_show_file_extensions
         - osxdefaults::finder_show_status_bar
         - osxdefaults::finder_unhide_home
