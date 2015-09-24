@@ -68,5 +68,6 @@ attributes:
       - owncloud
       - transmission
       - vagrant
+      - virtualbox
     cask_fonts:
       - terminus
