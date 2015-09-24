@@ -30,6 +30,7 @@ recipes:
         - osxdefaults::finder_show_status_bar
         - osxdefaults::finder_unhide_home
         - osxdefaults::menu_add_battery_percentage
+        - osxdefaults::reduce_transparency
         - osxdefaults::save_screenshots_in_png_format
         - osxdefaults::save_screenshots_to_the_desktop
         - osxdefaults::save_to_disk_not_to_iCloud_by_default
