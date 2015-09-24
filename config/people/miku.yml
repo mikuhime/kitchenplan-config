@@ -41,7 +41,7 @@ recipes:
         - osxdefaults::use_name_and_password_on_loginscreen
 attributes:
   osxdefaults:
-    add_note_to_loginscreen: pls no bully
+    loginmessage: "pls no bully"
     computername: hachune
     finder_set_preferred_view_style: Nlsv
   homebrewalt:
