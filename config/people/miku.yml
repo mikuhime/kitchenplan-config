@@ -69,5 +69,6 @@ attributes:
       - transmission
       - vagrant
       - virtualbox
+      - xld
     cask_fonts:
       - terminus
