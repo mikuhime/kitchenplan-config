@@ -46,6 +46,7 @@ attributes:
     finder_set_preferred_view_style: Nlsv
   homebrewalt:
     apps:
+      - foremost
       - git
       - git-extras
       - htop-osx
