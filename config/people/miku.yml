@@ -55,6 +55,7 @@ attributes:
       - htop-osx
       - httpie
       - nmap
+      - packer
       - pstree
       - tmux
     cask_apps:
