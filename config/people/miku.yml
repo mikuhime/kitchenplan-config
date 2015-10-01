@@ -1,6 +1,7 @@
 recipes:
     mac_os_x:
         - dotfiles::default
+        - dotfiles::fish
         - dotfiles::neo_layout
         - dotfiles::tmux
         - osxdefaults::add_note_to_loginscreen
