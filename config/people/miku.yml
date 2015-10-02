@@ -73,6 +73,7 @@ attributes:
       - macpass
       - mpv
       - owncloud
+      - thunderbird
       - transmission
       - vagrant
       - virtualbox
