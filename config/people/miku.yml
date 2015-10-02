@@ -61,6 +61,7 @@ attributes:
       - packer
       - pstree
       - tmux
+      - xz
     cask_apps:
       - android-file-transfer
       - atom
