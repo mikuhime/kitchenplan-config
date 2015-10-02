@@ -33,6 +33,7 @@ recipes:
         - osxdefaults::finder_show_file_extensions
         - osxdefaults::finder_show_status_bar
         - osxdefaults::finder_unhide_home
+        - osxdefaults::increase_window_resize_speed_for_cocoa_applications
         - osxdefaults::menu_add_battery_percentage
         - osxdefaults::reduce_transparency
         - osxdefaults::save_screenshots_in_png_format
