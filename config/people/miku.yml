@@ -56,6 +56,7 @@ attributes:
       - git-extras
       - htop-osx
       - httpie
+      - hugo
       - nmap
       - packer
       - pstree
