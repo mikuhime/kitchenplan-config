@@ -69,6 +69,7 @@ attributes:
       - audacity
       - chefdk
       - chromium
+      - colloquy
       - firefox
       - google-chrome
       - hexchat
