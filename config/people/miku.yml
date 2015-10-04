@@ -54,6 +54,7 @@ attributes:
       - foremost
       - git
       - git-extras
+      - golang
       - htop-osx
       - httpie
       - hugo
