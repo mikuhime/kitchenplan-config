@@ -78,6 +78,7 @@ attributes:
       - macpass
       - mpv
       - owncloud
+      - textual
       - thunderbird
       - transmission
       - vagrant
