@@ -83,7 +83,6 @@ attributes:
       - transmission
       - vagrant
       - virtualbox
-      - wineskin-winery
       - xld
     cask_fonts:
       - terminus
