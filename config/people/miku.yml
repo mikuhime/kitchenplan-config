@@ -63,6 +63,7 @@ attributes:
       - pstree
       - tmux
       - xz
+      - youtube-dl
     cask_apps:
       - android-file-transfer
       - atom
