@@ -83,6 +83,7 @@ attributes:
       - transmission
       - vagrant
       - virtualbox
+      - wacom-tablet
       - xld
     cask_fonts:
       - terminus
