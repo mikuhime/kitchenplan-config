@@ -70,6 +70,7 @@ attributes:
       - chefdk
       - chromium
       - firefox
+      - gimp
       - google-chrome
       - hexchat
       - iterm2
