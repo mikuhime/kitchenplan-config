@@ -97,3 +97,7 @@ attributes:
       - xld
     cask_fonts:
       - terminus
+      - fira-code
+      - fira-mono
+      - fira-sans
+      - source-code-pro
