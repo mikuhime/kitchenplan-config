@@ -54,6 +54,7 @@ attributes:
     finder_set_preferred_view_style: Nlsv
   homebrewalt:
     apps:
+      - casperjs
       - foremost
       - git
       - git-extras
@@ -61,6 +62,8 @@ attributes:
       - htop-osx
       - httpie
       - nmap
+      - npm
+      - nodejs
       - packer
       - pstree
       - tmux
