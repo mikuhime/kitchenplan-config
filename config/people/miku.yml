@@ -86,6 +86,7 @@ attributes:
       - owncloud
       - paintbrush
       - parallels-desktop
+      - parallels-virtualization-sdk
       - steam
       - textual
       - thunderbird
