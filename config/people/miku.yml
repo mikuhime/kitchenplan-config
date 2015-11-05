@@ -46,6 +46,8 @@ recipes:
         - osxdefaults::use_dark_menu_bar_and_dock
         - osxdefaults::use_name_and_password_on_loginscreen
 attributes:
+  dotfiles:
+    user: miku
   osxdefaults:
     loginmessage: "pls no bully"
     computername: hachune
