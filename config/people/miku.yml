@@ -88,6 +88,7 @@ attributes:
       - parallels-desktop
       - parallels-virtualization-sdk
       - steam
+      - telegram
       - textual
       - thunderbird
       - transmission
