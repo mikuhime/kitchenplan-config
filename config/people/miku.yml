@@ -55,6 +55,8 @@ attributes:
   homebrewalt:
     apps:
       - casperjs
+      - etcd
+      - fleetctl
       - foremost
       - git
       - git-extras
